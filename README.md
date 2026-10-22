@@ -65,15 +65,3 @@ implement inference. `storage.js` manages local records; `aggregate.js` summariz
 `dashboard.js` and `emotionWheel.js` render the interface; `demo.js` supplies
 fictional examples. `scripts/build.mjs` bundles code and copies local runtime
 assets and notices into `dist/`.
-
-## Contributions and licensing
-
-See [CREDITS.md](CREDITS.md) for Sophie's research contributions, AI assistance,
-and existing tools. Project-owned code is offered under the ISC license, matching
-the existing package metadata. Third-party components retain their own licenses;
-the ISC license does not relicense models, training data, or research material.
-See [LICENSE](LICENSE), [LICENSE_SCOPE.md](LICENSE_SCOPE.md), and `licenses/`.
-
-Please use fictional examples in issues and pull requests. Never upload a real
-screen capture, participant response, private OCR text, or credential. See
-[CONTRIBUTING.md](CONTRIBUTING.md). Before publishing, follow [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md).
