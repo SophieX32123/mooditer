@@ -1,0 +1,26 @@
+{
+  "name": "mooditer",
+  "version": "1.0.0",
+  "description": "Local screen sentiment and emotion browser extension",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "test:browser": "playwright test",
+    "package": "npm run build && powershell -NoProfile -Command \"Compress-Archive -Path dist/* -DestinationPath Mooditer-extension.zip -Force\"",
+    "test:parity": "node scripts/parity.mjs",
+    "test:parity:browser": "node scripts/browser-parity.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@huggingface/transformers": "3.8.1",
+    "esbuild": "^0.28.2",
+    "sentiment": "^5.0.2",
+    "tesseract.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}

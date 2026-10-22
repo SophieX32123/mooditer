@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Mooditer — Screen sentiment",
+  "version": "0.1.0",
+  "description": "Track the tone of your screen with local OCR, sentiment, emotion, and content summaries.",
+  "minimum_chrome_version": "116",
+  "action": { "default_title": "Open Mooditer" },
+  "background": { "service_worker": "background.js" },
+  "content_security_policy": { "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'; connect-src 'self'; worker-src 'self'" }
+}

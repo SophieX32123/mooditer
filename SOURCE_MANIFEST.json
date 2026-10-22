@@ -1,0 +1,207 @@
+[
+  {
+    "path": "src/aggregate.js",
+    "sha256": "83d4fa90b621845f4bb879872ba67ca1a6dcff0846d734364a3d7d41bcbb9bf6",
+    "bytes": 2531
+  },
+  {
+    "path": "src/analysis.js",
+    "sha256": "f53ac33947d305cef19586e1db6095338d0e5730c127644fad3438705e48461a",
+    "bytes": 5659
+  },
+  {
+    "path": "src/capture.js",
+    "sha256": "f412a4283af40212f687e08fc45e614b4f58f4d85e506934ef21dfb273597464",
+    "bytes": 5074
+  },
+  {
+    "path": "src/dashboard.js",
+    "sha256": "467ddb8e699403a062b0e947c9d6c7ab995fc89b0f1113152fb57bf287467369",
+    "bytes": 15923
+  },
+  {
+    "path": "src/demo.js",
+    "sha256": "97d725a835f4c92fb4b719c484355ec293ea330b766b0faca36efe9668c277b5",
+    "bytes": 3493
+  },
+  {
+    "path": "src/emotionClient.js",
+    "sha256": "e03296d73b583032781394f808fbbbfdae9c44a69e8c3d1fd55ea50d4e9cc3db",
+    "bytes": 1749
+  },
+  {
+    "path": "src/emotionWheel.js",
+    "sha256": "c3d019556e0d07b9b603ef287f4944b9f83407558ed7d38884dadcfe328e54da",
+    "bytes": 2936
+  },
+  {
+    "path": "src/emotionWorker.js",
+    "sha256": "199922aee9d390335784fb467ebbab78749fcb5e3ad042f600594904d4b0dcea",
+    "bytes": 2700
+  },
+  {
+    "path": "src/features.js",
+    "sha256": "8584728c760299b24ffce93643c6ee0b2bbd1efd1aef56246bd02c93325b8623",
+    "bytes": 2148
+  },
+  {
+    "path": "src/goemotions.js",
+    "sha256": "6d286a62901408c8c049b847c4827111a74a075f85f64c57d0a37ca9eebadf05",
+    "bytes": 1936
+  },
+  {
+    "path": "src/lgbm.js",
+    "sha256": "f3ae830915272608e47fb675da8f66cfc7d7789fc8eb7faab738490a2713f9eb",
+    "bytes": 997
+  },
+  {
+    "path": "src/segment.js",
+    "sha256": "24c29584e772a4d4914978c5c194ce1763ea74d96f38ec3ff71e3acfb903462a",
+    "bytes": 891
+  },
+  {
+    "path": "src/storage.js",
+    "sha256": "75f278f9e6086ccf71e9db5d373aaa0325b51a61425bcece6781657972db4d16",
+    "bytes": 1600
+  },
+  {
+    "path": "src/vader-data.json",
+    "sha256": "1f3fb3b9c74a499683be5f0f7dbcb56e10bbc4eeea7ed983c818dc603c1cc2a0",
+    "bytes": 140622
+  },
+  {
+    "path": "src/vader.js",
+    "sha256": "bb316cb22b9e482380916546a80dacfb658659cb9f90aa9c37a57f39b5aee4ff",
+    "bytes": 4120
+  },
+  {
+    "path": "extension/background.js",
+    "sha256": "65c5e9dbc5ca1443a0f2d724d16a13e9adedd60d9299c5a4a0b51279822ef60d",
+    "bytes": 411
+  },
+  {
+    "path": "extension/dashboard.html",
+    "sha256": "ee55ab85d69087f2c5ac453a454bf38c1d6b55ad39dc39925ce09bfbb1b923f2",
+    "bytes": 8018
+  },
+  {
+    "path": "extension/manifest.json",
+    "sha256": "835d195300834cdd08b04937205768c529f617cd53bf27372769e508ab17e8f5",
+    "bytes": 492
+  },
+  {
+    "path": "extension/styles.css",
+    "sha256": "f44427a19544cf04bed411cd574446a9c41d3cc612c64687ddca021015c54bb0",
+    "bytes": 9584
+  },
+  {
+    "path": "tests/analysis.test.mjs",
+    "sha256": "bd0993aea4813c12ec50dff9761d1dc4aeb911b2f81bad1c8b874eb984793937",
+    "bytes": 3750
+  },
+  {
+    "path": "tests/browser/extension.spec.js",
+    "sha256": "1a7d7d174e5f2ae5b776971bed16fa5a7ef8b4691bef81a4a67cad53abf7a1b2",
+    "bytes": 13671
+  },
+  {
+    "path": "tests/capture.test.mjs",
+    "sha256": "37b4b0512d7cf50cb52c5fd9a714ce46d939696111c394041cc9c19cc6260ded",
+    "bytes": 4347
+  },
+  {
+    "path": "tests/demo.test.mjs",
+    "sha256": "75f9aab67d189fde4642873054a0a9238c7d1fb525d51eeb89cba5e0382be615",
+    "bytes": 1284
+  },
+  {
+    "path": "tests/emotion-v2.test.mjs",
+    "sha256": "1ac263e29d79d849e14dc35c616e938b54b251947e072cb4a0e4a4c5fccad15c",
+    "bytes": 4866
+  },
+  {
+    "path": "tests/emotion-wheel.test.mjs",
+    "sha256": "83c75775e4518de6e71d64d0d6702407c39adf5648a8b5587e44529e4407d05b",
+    "bytes": 635
+  },
+  {
+    "path": "licenses/goemotions-model-card.md",
+    "sha256": "bc576d0d7a4390c61bc700fe127e314485b20205d847a5202dfe8e76bdb3343a",
+    "bytes": 9565
+  },
+  {
+    "path": "licenses/huggingface-jinja.txt",
+    "sha256": "d6e7b19451c1b3d1d66353bb4b1274138953b3bfd9ae60c56e77b1f548796982",
+    "bytes": 1069
+  },
+  {
+    "path": "licenses/onnxruntime-ThirdPartyNotices.txt",
+    "sha256": "e9e90971a8e75a9a8ac0c6412e29c1202d079998389915aa485f46c816c3b4cc",
+    "bytes": 326866
+  },
+  {
+    "path": "licenses/onnxruntime.txt",
+    "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c",
+    "bytes": 1073
+  },
+  {
+    "path": "licenses/THIRD_PARTY.md",
+    "sha256": "3ea357f115b72bbdc4630b600393f4e465fe37e49c562595c7040e5a29d190b2",
+    "bytes": 1262
+  },
+  {
+    "path": "licenses/transformers-js.txt",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358
+  },
+  {
+    "path": "licenses/vaderSentiment.txt",
+    "sha256": "74cfe41cdbf7f6925aeb4c18c148ec8db042540edb6739fd81069aa4e3c8b118",
+    "bytes": 1096
+  },
+  {
+    "path": "package.json",
+    "sha256": "5c95d0a460c7096259e5f61937e3f4a3fd48ee65c4a088874cd3113ee6aba57d",
+    "bytes": 801
+  },
+  {
+    "path": "package-lock.json",
+    "sha256": "ded95b749ce632d62f41ed10efa697bd2f6c5e6c5c0b92d3824a2bf0e553c660",
+    "bytes": 59243
+  },
+  {
+    "path": "playwright.config.js",
+    "sha256": "393df77e1eb4a057ac240c03c11d64fc1633e8f826dc5265a4ba52666d748186",
+    "bytes": 159
+  },
+  {
+    "path": "PRIVACY.md",
+    "sha256": "14f21497467332b21b08689ac5daf53c91617a3669f52202813be7960dbb69cf",
+    "bytes": 2705
+  },
+  {
+    "path": "scripts/build.mjs",
+    "sha256": "cdcbfe1628a440b60994f9314c66d7f60c0b968d74ebd14ee2a4a427e542b7a8",
+    "bytes": 2203
+  },
+  {
+    "path": "scripts/parity.mjs",
+    "sha256": "0ea2fa48a66ecbd747d1be382f6a7253ca5d2f84e4047266dd43cc74b5f585ac",
+    "bytes": 1720
+  },
+  {
+    "path": "scripts/parity-metrics.mjs",
+    "sha256": "0e72e179a699cc09858a23606efc162652ea067f8fcac7cb3223b15730a81e5d",
+    "bytes": 1529
+  },
+  {
+    "path": "scripts/browser-parity.mjs",
+    "sha256": "d7f6d4212cd2bb67be064d01287df6ec4c787cce8b3c2fc8eacdd4e0dd3cbc20",
+    "bytes": 3776
+  },
+  {
+    "path": "assets/LICENSE-tessdata",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+    "bytes": 11358
+  }
+]
