@@ -28,11 +28,6 @@ Existing tools and code underpin the implementation:
 - Andrew Sliwinski's sentiment package: separate AFINN-based sentiment scoring.
 - esbuild: bundling; Playwright and Node's test runner: testing.
 
-Dhanush's ScreenTracker implementation informed the comparison of DistilBERT
-and VADER baselines during research. Those research comparison scripts are not
-included in this preview. Confirm any additional directly reused code and its
-original attribution before publication; this note does not grant permission.
-
 Exact JavaScript dependency versions are pinned in package-lock.json. Notices
 are in licenses/ and assets/LICENSE-tessdata. Trained models and third-party code
 retain their own terms. Do not describe the ensemble as proven superior without
