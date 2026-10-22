@@ -1,0 +1,21 @@
+node_modules/
+dist/
+dist-backup*/
+test-results/
+playwright-report/
+.browser-profile/
+research/
+reports/
+handoff/
+tmp/
+*.zip
+* - Copy*
+.env
+.env.*
+*.pem
+*.key
+*.csv
+*.sqlite*
+*.db
+assets/eng.traineddata*
+assets/emotion-v2/
